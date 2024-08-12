@@ -1,5 +1,4 @@
 import {sum, subtract} from './math.js';
-import assert from "assert";
 
 
 test("sum adds numbers", ()=>{
